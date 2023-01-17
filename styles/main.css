@@ -30,6 +30,10 @@ header {
   text-align: center;
   padding: 20px 0;
   font-family: "Literata", serif;
+  color: white;
+}
+
+header h1 {
   color: red;
 }
 
